@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bloc de Notas</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_delete">Eliminar</string>
+    <string name="et_title">Titulo</string>
+    <string name="ml_note">Nota</string>
+    <string name="btn_add">Crear nota</string>
+    <string name="tv_title">Notas</string>
+</resources>
